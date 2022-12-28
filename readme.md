@@ -2,6 +2,7 @@
 
 A retro display that shows the time and weather conditions, built on the incredible [Matrix Portal](https://www.adafruit.com/product/4745).
 
+![IRL Display](img/display.png)
 ![Screenshot](img/layout.png)
 
 
